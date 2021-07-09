@@ -1,0 +1,48 @@
+Minimals White Paper
+
+Contents
+1.	Minimals 
+2.	Vision
+3.	Why Binance Smart Chain
+4.	Community driven 
+5.	Automatic Liquidity Pool
+6.	Security
+7.	Manual burns
+8.	Network
+
+Minimals
+Minimals is an eco-friendly crypto-currency developed in collaboration with some of the best minds of Blockchain Technology. Traded as “MMS”, our objective is to provide a reliable cryptocurrency for both who are looking for investment and for doing transactions via Crypto. Our team is already in talks with various Corporations and Governments globally to get it approved as a tender for transactions. Gateways for crypto as a tender have already been opened up.
+Further to counter our carbon footprint and give back to society, we have pledged to plant 1 million trees by end of 2022 in collaboration with various NGOs, which already began while the coin was still in it’s testing stage. Minimals is working towards repairing the ecosystem is an integral part of its identity. Although it is multi-faceted, we have decided to address this as one of its principals - by planting trees, for “he who plants a tree plants a hope”. It is our responsibility towards our ecosystem to make efforts and harness our energy and resources to put back what we are taking away and help this world become a better place and be answerable to our future generations.
+To make progress as planned, we would join hands with our partners and supporters throughout the reforestation process, from planting saplings and taking care of young trees, through to their establishment. In our quest, we intend to have various forces rally alongside us - influencers across various channels, private investors as well as charitable organisations that will be chosen by the community as we mature in time. 
+
+Vision
+Minimals’ vision is to lower the barrier and enable established businesses with blockchain technology to create value and address economic problems on a global platform. 
+
+Why Binance Smart Chain?
+The Binance Smart Chain “BSC”, has seen tremendous growth recently, which has also extended to its native token “BNB”. A number of factors were considered before choosing BSC to develop and build on. Intuitively, the chain is reassuring as it has a good legitimate back up.  To further strengthen its hold, the creators have assured to allocate resources to bring in more developers to BSC. 
+In terms of technicality and usage, firstly, the transaction fees of BSC costs a few cents every few seconds. It also has a much shorter block time. If we draw a comparison, Ethereum has a block-time of 30 seconds, while it is just 3 seconds on BSC. This means it is ten times faster and ten times more efficient. Data is updated every 3 seconds, instead of 30, providing more accuracy as it’s more frequent. 
+Furthermore, BSC has a considerably lower gas price.
+We can conclude that BSC is a perfectly seamless solution to its expensive competitors.
+
+Community Driven
+Minimals is fully decentralized and owned by its community. It empowers its holders  to participate for decision making with greater accountability for the future of Minimals. We work to build opportunities, strengthen the voice of community to promote sustainable development.
+No account has more than 3% of the total supply, including the Devs. This will prevent major fluctuations in token value, as holding restrictions wouldn’t allow large amounts of selling. 
+
+Automatic Liquidity Pool
+Automatic liquidated pool is a safeguard for the Minimals community as it works in two ways.
+Firstly, whenever there is a trade and a particular amount of transaction fees is charged, the fees will be deposited into the liquidity pool from both the sale and purchase ends, which will increase the liquidity pool and will stabilise the price fluctuations to its maximum.
+Secondly, this transaction fees serves as an arbitrage resistant mechanism as it provides further security to the token volume, rewarding its community.
+When you make a token swap (trade) on the exchange, you will pay a 5% trading fee, which is broken down as follows:
+2% - to its yield farming pool
+3% - to its liquidity pool
+As the LP increases, the stability of the token increases, which in turn benefits its holders by providing a solid price floor. Without a LP function, the price fluctuations maybe large if big holders plan to sell their entire holding. To prevent and cushion such high fluctuations in price, is the goal of an automatic LP here. 
+
+Security 
+100% liquidity will be locked for 3 years from initial launch. 
+
+Manual burns 
+For a coin burn to take place, the tokens are sent to an address where they can’t be spent. As nobody has access to the private key associated with that particular address, those particular tokens are removed from circulation and the token supply is intentionally lowered. The coin burn address is made public to verify that the coins have indeed been burned. 
+25% of the Minimals tokens will be burned in time, burning 0.5% of the tokens every month for the next 50 months. So the 10 Trillion supply initially, will diminish in the following years, and with a decrease in supply and increase in the demand of the token, the value would increase, thereby benefiting its holders. 
+
+Network
+New transactions are broadcast to all the nodes. The longest chains are always considered to be the correct ones by the nodes and they keep working on extending them. Block broadcasts are also tolerant of dropped messages. In case a block is not received by a node, it will realise it missed one when it receives the next block and then request the previous one as well.
